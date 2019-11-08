@@ -2,6 +2,9 @@
 
 Additional features on top of the [`ht16k33` crate](https://crates.io/crates/ht16k33) to drive an [Adafruit 14-segment LED Alphanumeric Backpack](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric) using traits from `embedded-hal`.
 
+[![Crate](https://img.shields.io/crates/v/adafruit-alphanum4.svg)](https://crates.io/crates/adafruit-alphanum4)
+[![Documentation](https://docs.rs/adafruit-alphanum4/badge.svg)](https://docs.rs/adafruit-alphanum4)
+
 ## Features
 * Sending a `u8` to one of the 4 segments
 * Sending an `AsciiChar` to one of the 4 segments
